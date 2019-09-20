@@ -28,6 +28,6 @@ Helpchat support:
 
 *
 ### Design 
-As mentioned in the introduction we have a goal of "creating a diverse and easy-to-use solution, no matter the users experience with computers and computersystems". With this in mind, our designteam had to incorporate designelemts, with made it both easy to use for beginners, and usefull for the professionals.
+As mentioned in the introduction we have a goal of "creating a diverse and easy-to-use solution, no matter the users experience with computers and computersystems". With this in mind, our designteam had to incorporate designelemts, which makes it both easy to use for beginners, and usefull for the professionals.
 
 ### Credits
