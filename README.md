@@ -1,5 +1,14 @@
 # TRAJ-SOLUTIONS
 
-TRAJ - IT Support
+### TRAJ - IT Support
 
-#H1 Test
+## Description of product
+
+## Table of contents
+
+## Installation
+
+## Usage
+
+## Credits
+
