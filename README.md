@@ -2,8 +2,7 @@
 
 ## TRAJ - IT Support
 
-### Description of product 
-jjhkjhkjggukgjkg
+### Description of product
 
 ### Table of contents
 
