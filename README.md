@@ -20,6 +20,14 @@ When first loading the website, the website will ask the user if he/she is using
 
 *When first loading the website, the website will ask the user if he/she is using Windows, MacOS, Linux or other operating systems. After selecting the appropriate OS, the website will show a table of questions with common problems PC-users may experience. After selecting the suitible question, a new table will show, with further questions fitting for the problem. This system of tables of questions will continue until the program can calculate a relevant solution to the users problem. The user will also have the option to choose between other options of support, including: 24/7 Over-the-phone helpdesk, 24/7 helpchat, or our "@HOME" homesupport service.
 
+Over-the-phone helpdesk: 
+
+Helpchat support:
+
+@HOME homesupport service:
+
 *
+### Design 
+As mentioned in the introduction we have a goal of "creating a diverse and easy-to-use solution, no matter the users experience with computers and computersystems". With this in mind, our designteam had to incorporate designelemts, with made it both easy to use for beginners, and usefull for the professionals.
 
 ### Credits
