@@ -1,14 +1,14 @@
 # TRAJ-SOLUTIONS
 
-### TRAJ - IT Support
+## TRAJ - IT Support
 
-## Description of product
+### Description of product
 
-## Table of contents
+### Table of contents
 
-## Installation
+### Installation
 
-## Usage
+### Usage
 
-## Credits
+### Credits
 
