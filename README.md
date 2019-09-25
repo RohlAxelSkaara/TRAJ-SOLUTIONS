@@ -13,7 +13,9 @@ Our project is an IT support website that will help user with their IT problems.
 
 ### Table of contents
 
-### Installation
+### Class diagram
+
+https://imgur.com/a/reB8tvy
 
 ### Usage
 When first loading the website, the website will ask the user if he/she is using Windows or MacOS. Then the user will input a sentence or two describing their problem. The website will try to find an existing article describing a solution to the users problem. If that is not possible the user will be prompted with the decision to contact support by either chat, e-mail or phone.
@@ -26,11 +28,15 @@ Helpchat support:
 
 @HOME homesupport service:
 
-*
+
 ### Design 
 As mentioned in the introduction we have a goal of "creating a diverse and easy-to-use solution, no matter the users experience with computers and computersystems". With this in mind, our designteam had to incorporate designelements, which makes it both easy to use for beginners, and usefull for the professionals.
 
 ### Kravspecifikation
+
+#### Project Detials
+
+The target group of the website will be average computer users. Many people often run into easy resolvable IT issues. The goal of the website is to provide a quick and easy to use service to these users. The website will not store any critical information on its users and will therefor not need any advanced cyber security software. 
 
 #### Userflow:
 1. The user should be able to use the website either as a registered user or "guest". The website should be intuitive and easy for the user to use. The user will input his/her problem into the searchbar and will get suggestions on articles that will help the user resolve the problem. The software on the website will find the most relevent articles to the users problem based on word and sentence recognition in the users input. If the website cannot find any articles of relevence it will lead the user to the sites live support. 
