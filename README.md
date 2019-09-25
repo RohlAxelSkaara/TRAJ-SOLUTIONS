@@ -31,7 +31,6 @@ Helpchat support:
 As mentioned in the introduction we have a goal of "creating a diverse and easy-to-use solution, no matter the users experience with computers and computersystems". With this in mind, our designteam had to incorporate designelements, which makes it both easy to use for beginners, and usefull for the professionals.
 
 ### Kravspecifikation
-Kravspecifikation eller problemanalyse i datalogi, er et ord der bruges til at beskrive alle opgaver der indgår i undersøgelse, afgrænsning og definition af et nyt eller ændret computersystem. Kravspecifikation er en vigtig del af softwareudvikling; hvorved forretningseksperter eller softwareudviklere identificerer en kundes (eller slutbrugers) behov og krav; når disse krav er identificeret er de i stand til at designe en løsning.
 
 #### Userflow:
 1. The user should be able to use the website either as a registered user or "guest". The website should be intuitive and easy for the user to use. The user will input his/her problem into the searchbar and will get suggestions on articles that will help the user resolve the problem.
