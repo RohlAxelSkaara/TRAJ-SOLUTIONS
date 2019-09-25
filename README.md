@@ -33,12 +33,12 @@ As mentioned in the introduction we have a goal of "creating a diverse and easy-
 ### Kravspecifikation
 
 #### Userflow:
-1. The user should be able to use the website either as a registered user or "guest". The website should be intuitive and easy for the user to use. The user will input his/her problem into the searchbar and will get suggestions on articles that will help the user resolve the problem.
+1. The user should be able to use the website either as a registered user or "guest". The website should be intuitive and easy for the user to use. The user will input his/her problem into the searchbar and will get suggestions on articles that will help the user resolve the problem. The software on the website will find the most relevent articles to the users problem based on word and sentence recognition in the users input. If the website cannot find any articles of relevence it will lead the user to the sites live support. 
 
 2. The user should be able to log-on to the system and create one or more articles that will describe solutions to common IT problems.
 
 #### Notable functions based on the company/developer needs:
-1. The website will use simple software based on word and sentece recognition to find article based on user inputs. It will not use AI or any advanced algorithms as those solutions would be difficult and expensive to implement. 
+1. The website will use simple software based on word and sentence recognition to find article based on user inputs. It will not use AI or any advanced algorithms as those solutions would be difficult and expensive to implement. 
 
 2. The website will focus on simple design and an ease of use interface.
 
