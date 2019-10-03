@@ -14,6 +14,7 @@ Our project is an IT support website that will help user with their IT problems.
 ### Table of contents
 
 ### Class diagram
+![Class diagram](https://user-images.githubusercontent.com/55132250/66114680-a7ef9c80-e5cf-11e9-88dc-f5373a22599d.png)
 
 https://imgur.com/a/reB8tvy
 
