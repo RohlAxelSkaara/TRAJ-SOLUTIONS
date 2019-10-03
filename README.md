@@ -35,7 +35,49 @@ Our @HOME service allows our users to get the help they may need, at home. If th
 ### Design 
 As mentioned in the introduction we have a goal of "creating a diverse and easy-to-use solution, no matter the users experience with computers and computersystems". With this in mind, our designteam had to incorporate designelements, which makes it both easy to use for beginners, and usefull for the professionals.
 
-### Kravspecifikation
+### REQUIREMENTS SPECIFICATION
+ - Users
+ - Tech providers e.g Google, Apple etc. 
+ - ADMIN
+ - Article settings
+ 
+ USERS
+  1. Create account
+  2. Delete account
+  3. Log in
+  4. Log out
+  5. Access "Article settings"
+ 
+  
+TECH PROVIDERS 
+  1. Create account
+  2. Delete account
+  3. Create firm site
+  4. Access "Article settings" 
+  5. Clearly marked as developer of curtain tech e.g Google will clearly be marked as a developer of
+     all products created by Google
+  
+ADMIN
+  1. Delete account
+  2. Edit account
+  3. Ban account
+  4. Delete firm site
+  5. Edit firm site
+  6. Delete all articles
+  7. Edit all articles
+  8. Delete all comments
+  
+  
+ARTICLE SETTINGS
+  1. Access articles
+  2. Create articles 
+  3. Edit own articles
+  4. Delete own articles
+  5. Comment articles
+  6. Edit own comments
+  7. Delete own comments
+  8. Rate articles
+  
 
 #### Project Detials
 
