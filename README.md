@@ -93,7 +93,7 @@ The target group of the website will be average computer users. Many people ofte
 2. The website will focus on simple design and an ease of use interface.
 
 #### Examples of design
-
+<img width="1440" alt="Screenshot 2019-10-03 at 10 36 48" src="https://user-images.githubusercontent.com/55132250/66114464-2bf55480-e5cf-11e9-98f2-f1ed81d362fd.png">
 
 #### Data and database
 The website will store limited user information aswell as article information in the database. Articles will regularly be checked on relevens based on creation date and updated/deleted if nessesary. 
