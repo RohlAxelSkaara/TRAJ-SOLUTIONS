@@ -14,7 +14,7 @@ Our project is an IT support website that will help user with their IT problems.
 ### Table of contents
 
 ### Class diagram
-![Class diagram](https://user-images.githubusercontent.com/55132250/66114680-a7ef9c80-e5cf-11e9-88dc-f5373a22599d.png)
+![Class](https://user-images.githubusercontent.com/55132250/66114931-17fe2280-e5d0-11e9-95cd-5d49f9c464f2.png)
 
 https://imgur.com/a/reB8tvy
 
@@ -95,6 +95,14 @@ The target group of the website will be average computer users. Many people ofte
 
 #### Examples of design
 <img width="1440" alt="Screenshot 2019-10-03 at 10 36 48" src="https://user-images.githubusercontent.com/55132250/66114464-2bf55480-e5cf-11e9-98f2-f1ed81d362fd.png">
+
+<img width="1440" alt="Screenshot 2019-10-03 at 10 36 56" src="https://user-images.githubusercontent.com/55132250/66114764-cfdf0000-e5cf-11e9-9327-352d232364ae.png">
+
+<img width="1440" alt="Screenshot 2019-10-03 at 10 39 08" src="https://user-images.githubusercontent.com/55132250/66114808-dff6df80-e5cf-11e9-975a-bff708041c91.png">
+
+<img width="1440" alt="Screenshot 2019-10-03 at 10 37 12" src="https://user-images.githubusercontent.com/55132250/66114848-f1d88280-e5cf-11e9-9b91-7833330c947b.png">
+
+<img width="1440" alt="Screenshot 2019-10-03 at 10 37 36" src="https://user-images.githubusercontent.com/55132250/66114871-fbfa8100-e5cf-11e9-870b-0b38e5c91b74.png">
 
 #### Data and database
 The website will store limited user information aswell as article information in the database. Articles will regularly be checked on relevens based on creation date and updated/deleted if nessesary. 
