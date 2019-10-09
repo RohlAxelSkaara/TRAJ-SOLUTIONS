@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TRAJ SOLUTIONS</title>
+</head>
+<body>
+    <h1>Welcome to TRAJ Solutions!</h1>
+    <!-- Create empty paragraf with the ID demo. Create a button that replaces the text in the paragraf by
+    using the presentAdminName function in adminClass.js -->
+    <p id="demo"></p>
+    <button type="button" onclick='document.getElementById("demo").innerHTML = adminAnders.presentAdminName()'>Click Me!</button>
+
+
+    <p>Search for a user by typing their full name.</p>
+    <form id="form1">
+        Full name: <input type="text" name="fullname"><br>
+        <input type="button" onclick="getUserInput()" value="Search">
+    </form>
+    <p id="result"></p>
+
+
+    <script src="adminClass.js"></script>
+    <script src="viewUser.js"></script>
+</body>
+</html>
