@@ -6,9 +6,15 @@
 </head>
 <body>
     <h1>Welcome to TRAJ Solutions!</h1>
+
+    <form>
+        <input type="text" name="usrnm" placeholder="Username...">
+        <input type="text" name="pswrd" placeholder="Password...">
+        <input type="submit" onclick="login()" value="Log-in" >
+    </form>
     <!-- Create empty paragraf with the ID demo. Create a button that replaces the text in the paragraf by
     using the presentAdminName function in adminClass.js -->
-    <p id="demo"></p>
+    <!-- <p id="demo"></p>
     <button type="button" onclick='document.getElementById("demo").innerHTML = adminAnders.presentAdminName()'>Click Me!</button>
 
 
@@ -17,10 +23,9 @@
         Full name: <input type="text" name="fullname"><br>
         <input type="button" onclick="getUserInput()" value="Search">
     </form>
-    <p id="result"></p>
+    <p id="result"></p> -->
 
+<script src="logIn.js"></script>
 
-    <script src="../Classes/adminClass.js"></script>
-    <script src="viewUser.js"></script>
 </body>
 </html>
