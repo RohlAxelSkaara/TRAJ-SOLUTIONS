@@ -22,3 +22,5 @@ class admin {
 //Object of class admin
 adminAnders = new admin("Anders Christmann", "123", "Anders is one of the founders of TRAJ solutions",
     9/10/2019, true, 321);
+
+//lav en array

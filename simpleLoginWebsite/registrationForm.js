@@ -1,5 +1,22 @@
 //Name and password from register form
-var username = document.getElementById('username');
+
+if(localStorage.getItem('user') == null) {
+    var userList = [];
+        userList.push(new user("anders", "123"));
+        userList.push(new user("thomas", "123"));
+        userList.push(new user("axel", "123"));
+        userList.push(new user("jonas", "123"));
+
+        var userListString = JSON.stringify(userList);
+        localStorage.setItem('user', userListString);
+}
+else {
+    var userList = JSON.parse(localStorage.getItem('user'));
+}
+
+
+
+/*var username = document.getElementById('username');
 var password = document.getElementById('password');
 
 function store() {
@@ -21,4 +38,4 @@ function check() {
         alert('Entered information is incorrect');
     }
 
-}
+} */
