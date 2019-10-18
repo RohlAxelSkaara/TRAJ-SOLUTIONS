@@ -8,7 +8,7 @@ class admin {
         this.userActivity = activity;
         this.adminCode = adminCode;
     }
-    //Funtion that is called in INDEX.html that replaces a paragraf with text and information from the object adminAnders.
+    //Funtion that is called in simpleLogin.html that replaces a paragraf with text and information from the object adminAnders.
     presentAdminName() {
         return "This admin is named " + adminAnders.userName;
     }
