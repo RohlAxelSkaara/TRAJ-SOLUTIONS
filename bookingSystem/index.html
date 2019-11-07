@@ -13,11 +13,17 @@
     <form>
         <input id="clientName" type="text" name="clientName" placeholder="Your name...">
         <input id="clientEmail" type="text" name="clientEmail" placeholder="Your email...">
-        <!-- Button that runs the createBooking() function from teh bookingSystem.js file when clicked. -->
+        <!-- Button that runs the createBooking() function from the bookingSystem.js file when clicked. -->
         <button id="submitBooking" type="submit" name="submitBooking" onclick="createBooking()">Submit Booking</button>
     </form>
 </div>
 <div id="div1">
+</div>
+<div>
+    <form>
+        <button id="bookingDetailsBTN" type="submit" onclick="showBookingDetails()">Click to view the details regarding your booking.</button>
+        <p id="bookingDetailsP"></p>
+    </form>
 </div>
 </body>
 </html>

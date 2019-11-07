@@ -1,6 +1,6 @@
 class booking {
     constructor(clientName, clientEmail,) {
-        this.nameOfClenint = clientName;
+        this.nameOfClient = clientName;
         this.emailOfClient = clientEmail;
     }
 }
