@@ -1,6 +1,7 @@
 //Creating an array outside the function so that both functions will have access to it. Before I tried creating it inside one of the functions
 //but was running into issues because of scope.
 var bookingList = [];
+var bookingDateList = [];
 
 //createBooking() function that is run when the button called "book" is clicked.
 function createBooking() {
@@ -13,6 +14,14 @@ function createBooking() {
     bookingList.push(userName);
     bookingList.push(userEmail);
 
+    var bookingDate = new Date();
+    var dd = String(bookingDate.getDate()).padStart(2, '0');
+    var mm = String(bookingDate.getMonth() + 1).padStart(2, '0');
+    var yyyy = bookingDate.getFullYear();
+
+    bookingDate = dd + '/' + mm + '/' + yyyy;
+
+    bookingDateList.push(bookingDate);
 
     //window.localStorage.setItem("clientName", userName);
     //window.localStorage.setItem("clientEmail", userEmail);
@@ -32,8 +41,9 @@ function showBookingDetails() {
         //Creating two new variable that contains the first and second element of the array seperately.
         var arrayName = bookingList[0];
         var arrayEmail = bookingList[1];
+        var arrayDate = bookingDateList[0];
         //var bookingListString = bookingList.toString();
-        document.getElementById("bookingDetailsP").innerHTML = "Name: " + arrayName + " and E-mail: " + arrayEmail + ".";
+        document.getElementById("bookingDetailsP").innerHTML = "Name: " + arrayName + " E-mail: " + arrayEmail + " Booking Time: " + arrayDate + ".";
         //alert("Client name: " + arrayName + " and Client E-mail: " + arrayEmail);
     } else {
         document.getElementById("pleaseCreateBookingP").innerHTML = "Please create a booking first!"
