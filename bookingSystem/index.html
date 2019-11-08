@@ -2,9 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Booking System</title>
+    <link  href="styles.css" rel="stylesheet" type="text/css">
     <script src="bookingSystem.js"></script>
     <script src="bookingClass.js"></script>
+    <title>Booking System</title>
 </head>
 <body>
 <div>
@@ -23,8 +24,9 @@
 </div>
 <div>
     <form>
-        <button id="bookingDetailsBTN" type="submit" onclick="showBookingDetails()">Click to view the details regarding your booking.</button>
+        <input type="button" onclick="showBookingDetails()" value="Show my booking">
         <p id="bookingDetailsP"></p>
+        <p id="pleaseCreateBookingP"></p>
     </form>
 </div>
 </body>
