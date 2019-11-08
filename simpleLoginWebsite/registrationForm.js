@@ -1,6 +1,5 @@
-//Name and password from register form
-
-if(localStorage.getItem('user') == null) {
+if(localStorage.getItem('user') == null)
+{
     var userList = [];
         userList.push(new user("anders", "123"));
         userList.push(new user("thomas", "123"));
@@ -9,9 +8,12 @@ if(localStorage.getItem('user') == null) {
 
         var userListString = JSON.stringify(userList);
         localStorage.setItem('user', userListString);
+        console.log("!");
 }
-else {
-    var userList = JSON.parse(localStorage.getItem('user'));
+else
+{
+    userList = JSON.parse(localStorage.getItem('user'));
+    console.log("?");
 }
 
 
