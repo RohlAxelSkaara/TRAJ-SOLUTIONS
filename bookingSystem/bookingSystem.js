@@ -5,6 +5,7 @@ var bookingList = [];
 //Creating a bookingDateList array to store the date and use it in multiple functions.
 var bookingDateList = [];
 
+
 //createBooking() function that is run when the button called "book" is clicked.
 function createBooking() {
     //Taking the user input from the two inputs in the form and storing them in two different variables.
@@ -52,6 +53,7 @@ function showBookingDetails() {
             var arrayEmail = bookingList[1];
             //Creating a new variable arrayDate that store the value of the first element in the bookingDateListArray
             var arrayDate = bookingDateList[0];
+
         //var bookingListString = bookingList.toString();
         document.getElementById("bookingDetailsP").innerHTML = "Name: " + arrayName + " E-mail: " + arrayEmail + " Booking Time: " + arrayDate + ".";
         //alert("Client name: " + arrayName + " and Client E-mail: " + arrayEmail);
