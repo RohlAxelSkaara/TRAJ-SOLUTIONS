@@ -1,9 +1,19 @@
 /* Headers */
 h1{
+    position: right;
+    font-family: Monaco;
+    font-weight: bold;
+    font-size: 40px;
+    color: #1265d2;
+    border-radius: 0px;
+}
+h2{
     position: center;
     font-family: Helvetica;
-    font-size: 25 px;
-    color: #70afd2;
+    font-weight: normal;
+    font-size: 25px;
+    color: #000000;
+    border-radius: 0px;
 }
 
 /* Pictures */
@@ -15,8 +25,3 @@ h1{
 
 }
 /* Logo */
-.logo {
-    font-family: Helvetica;
-    font-size: 30 px;
-    color: #70afd2;
-}
