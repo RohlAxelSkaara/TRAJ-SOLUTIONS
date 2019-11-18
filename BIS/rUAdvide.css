@@ -1,0 +1,22 @@
+/* Headers */
+h1{
+    position: center;
+    font-family: Helvetica;
+    font-size: 25 px;
+    color: #70afd2;
+}
+
+/* Pictures */
+.frontImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+
+}
+/* Logo */
+.logo {
+    font-family: Helvetica;
+    font-size: 30 px;
+    color: #70afd2;
+}
