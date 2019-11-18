@@ -1,11 +1,13 @@
 class user {
     constructor(userName, userPassword, userAbout, userCreationDate, userActivity, isAdmin) {
-        this.userName = name;
-        this.userPassword = password;
-        this.userAbout = about;
-        this.userCreationDate = creationDate;
-        this.userActivity = activity;
-        this.isAdmin = adminStatus;
+        this.userName = userName;
+        this.userPassword = userPassword;
+        this.userAbout = userAbout;
+        this.userCreationDate = userCreationDate;
+        this.userActivity = userActivity;
+        this.isAdmin = isAdmin;
     }
 
 }
+
+var jonas = new user ("Jonas", 123, "Member of TRAJ SOLUTIONS", new Date(), true, true);
