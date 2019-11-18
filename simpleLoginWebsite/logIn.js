@@ -19,6 +19,8 @@ submit.onclick = function() {
     }
 }
 
+// Ændring så vi kan push stoffer
+
 /*document.getElementById('username').addEventListener("keyup", function (event) {
     if (event.keyCode == 13)
         submit.click();
