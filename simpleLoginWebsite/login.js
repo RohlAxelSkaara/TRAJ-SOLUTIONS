@@ -15,7 +15,7 @@ var users = [
         username: "Axel",
         password: "axel123"
     }
-]
+];
 
 function getInfo() {
     var username = document.getElementById("username").value;
