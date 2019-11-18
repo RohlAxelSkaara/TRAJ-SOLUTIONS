@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="styles.css" rel="stylesheet" type="text/css">
+    <script src="bookingSystem.js"></script>
+    <script src="bookingClass.js"></script>
+    <title>Booking System</title>
+</head>
+<body>
+<div>
+    <h1>Book a time with us!</h1>
+    <!-- Form with 2 input fields and one button. This allows the user to book a time with the company. -->
+    <form>
+        <input id="clientName" type="text" name="clientName" placeholder="Your name...">
+        <input id="clientEmail" type="text" name="clientEmail" placeholder="Your email...">
+        <!-- Button that runs the createBooking() function from the bookingSystem.js file when clicked. -->
+        <!--<button id="submitBooking" type="submit" name="submitBooking" onclick="createBooking()">Submit Booking</button>-->
+        <input type="button" onclick="createBooking()" value="Book">
+    </form>
+</div>
+<div id="div1">
+    <p type="text" id="insert"></p>
+</div>
+<div>
+    <form>
+        <input type="button" onclick="showBookingDetails()" value="Show my booking">
+        <p id="bookingDetailsP"></p>
+        <p id="pleaseCreateBookingP"></p>
+    </form>
+</div>
+</body>
+</html>
