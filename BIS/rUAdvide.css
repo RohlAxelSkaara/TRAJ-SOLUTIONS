@@ -36,9 +36,8 @@ p{
 /* Pictures */
 .frontImage {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
+    max-width: 100%;
+    padding-left: 0%;
 
 }
 /* Logo */
@@ -47,13 +46,15 @@ p{
 ul{
     position: fixed;
     top: 0;
-    width: 100%;
+    width: 85%;
     list-style-type: none;
-    font-family: Helvetica;
-    font-size: 25px;
+    font-family: Menlo;
+    font-size: 20px;
+    font-weight: lighter;
     background-color: #15276b;
     margin: 0;
-    padding-left: 10%;
+    padding-left: 15%;
+    padding-right: 15%;
     overflow: hidden;
 }
 li{
@@ -72,6 +73,9 @@ li a{
 li a:hover{
     background-color: #ffffff;
     color: #15276b;
+}
+li:last-child {
+    border-right: none;
 }
 @media screen and (max-width: 800px){
     ul.sidenav li a{
