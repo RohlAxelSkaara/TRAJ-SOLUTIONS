@@ -4,7 +4,7 @@ h1{
     font-family: Monaco;
     font-weight: bold;
     font-size: 40px;
-    color: #1265d2;
+    color: #15276b;
     border-radius: 0px;
 }
 h2{
@@ -21,7 +21,7 @@ h2{
     padding-left: 15%;
     width: 70%;
     position: center;
-    background-color: crimson;
+    background-color: #ffffff;
 
 
 }
@@ -42,3 +42,41 @@ p{
 
 }
 /* Logo */
+
+/* Top menu bar */
+ul{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    list-style-type: none;
+    font-family: Helvetica;
+    font-size: 25px;
+    background-color: #15276b;
+    margin: 0;
+    padding-left: 10%;
+    overflow: hidden;
+}
+li{
+    display: inline;
+    float: left;
+    border-right: 1px solid #ffffff;
+}
+li a{
+    text-decoration: none;
+    color: #ffffff;
+    display: block;
+    font-weight: lighter;
+    padding: 14px 16px;
+
+}
+li a:hover{
+    background-color: #ffffff;
+    color: #15276b;
+}
+@media screen and (max-width: 800px){
+    ul.sidenav li a{
+        text-align: center;
+        float: none;
+    }
+
+}
