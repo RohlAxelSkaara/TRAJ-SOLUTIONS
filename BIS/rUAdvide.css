@@ -15,6 +15,23 @@ h2{
     color: #000000;
     border-radius: 0px;
 }
+/* Text */
+.textBox{
+    padding-right: 15%;
+    padding-left: 15%;
+    width: 70%;
+    position: center;
+    background-color: crimson;
+
+
+}
+p{
+    position: center;
+    font-family: Helvetica;
+    font-size: 15px;
+    padding-left: ;
+    padding-right: auto;
+}
 
 /* Pictures */
 .frontImage {
