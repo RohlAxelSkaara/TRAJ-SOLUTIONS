@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caf4f4eb-40c6-4d00-866d-d949dd6d3971" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BIS/rUAdvice.html" beforeDir="false" afterPath="$PROJECT_DIR$/BIS/rUAdvice.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BIS/rUAdvide.css" beforeDir="false" afterPath="$PROJECT_DIR$/BIS/rUAdvide.css" afterDir="false" />
     </list>
@@ -31,6 +32,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1TKAK0tiDTK8XXeot1oKCKnpNDx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
