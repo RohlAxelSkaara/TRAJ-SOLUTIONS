@@ -1,0 +1,120 @@
+
+
+#booking {
+
+    text-align: center;
+    padding-bottom: 550px;
+    padding-top: 55px;
+    color:#35424a;
+    background:#35424a;
+}
+
+
+
+#booking h1{
+    font-size: 50px;
+    color: #ffffff;
+}
+
+
+/*booking input*/
+#booking input{
+
+    color: black;
+    font-size: 20px;
+    margin-top: 5px ;
+    background: #ffffff;
+
+    border-radius: 4px;
+    border-color: #ffffff;
+    width: 300px;
+    padding: 10px;
+
+}
+
+
+
+input:focus::-webkit-input-placeholder {
+    color: #FFFFFF;
+}
+
+#booking input:focus{
+    background: #e8491d;
+    color: #FFFFFF;
+
+    outline: none;
+
+
+}
+
+/*booking select*/
+#booking select{
+    -webkit-appearance: none;
+    color: #35424a;
+    font-size: 20px;
+    margin-top: 5px ;
+    background: #ffffff;
+    border-radius: 4px;
+    width: 78px;
+    padding: 12px;
+    text-align: center;
+}
+
+select:focus::-webkit-input-placeholder {
+    color: #FFFFFF;
+}
+
+#booking select:focus{
+    background: #e8491d;
+    color: #FFFFFF;
+
+    outline: none;
+
+
+}
+
+/* BOOKING BUTTON*/
+
+#booking button{
+
+    color: #FFFFFF;
+    font-size: 20px;
+    margin-top: 5px ;
+    background: #e8491d;
+
+    border-radius: 4px;
+    border-color: #e8491d;
+    width: 325px;
+    padding: 12px;
+    text-align: center;
+
+
+}
+
+
+#booking button:hover {
+    color: #e8491d;
+    background-color: #ffffff;
+    border-color:#ffffff ;
+    transition-duration: 0.7s;
+    cursor: pointer;
+}
+
+#select contact_day{
+    color: #35424a;
+    font-size: 20px;
+    margin-top: 5px ;
+    background: #ffffff;
+    border-radius: 4px;
+    width: 78px;
+    padding: 12px;
+    text-align: center;
+}
+
+#bookingConfirm{
+    display: none;
+}
+
+
+
+
