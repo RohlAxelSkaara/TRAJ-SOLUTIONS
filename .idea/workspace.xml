@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dba6123c-0cb6-4181-af12-1593a30896c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TRAJ-SOLUTIONS IT SUPPORT/landingPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Forum/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Forum/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/TRAJ-SOLUTIONS IT SUPPORT/Booking/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TRAJ-SOLUTIONS IT SUPPORT/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TRAJ-SOLUTIONS IT SUPPORT/Login/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TRAJ-SOLUTIONS IT SUPPORT/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/TRAJ-SOLUTIONS IT SUPPORT/Login/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TRAJ-SOLUTIONS IT SUPPORT/profilePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/TRAJ-SOLUTIONS IT SUPPORT/Login/profilePage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TRAJ-SOLUTIONS IT SUPPORT/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TRAJ-SOLUTIONS IT SUPPORT/userClass.js" beforeDir="false" afterPath="$PROJECT_DIR$/TRAJ-SOLUTIONS IT SUPPORT/Login/userClass.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/TRAJ-SOLUTIONS IT SUPPORT/Booking/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainbooking.js" beforeDir="false" afterPath="$PROJECT_DIR$/TRAJ-SOLUTIONS IT SUPPORT/Booking/mainbooking.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/TRAJ-SOLUTIONS IT SUPPORT/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -37,6 +47,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ander\WebstormProjects\10\9\2019\TRAJ-SOLUTIONS IT SUPPORT" />
+      <recent name="C:\Users\ander\WebstormProjects\10\9\2019\TRAJ-SOLUTIONS IT SUPPORT\Booking" />
+      <recent name="C:\Users\ander\WebstormProjects\10\9\2019\TRAJ-SOLUTIONS IT SUPPORT\Login" />
+      <recent name="C:\Users\ander\WebstormProjects\10\9\2019\isEven" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -62,7 +80,11 @@
       <updated>1574156299624</updated>
       <workItem from="1574156304948" duration="367000" />
       <workItem from="1574237598758" duration="4111000" />
-      <workItem from="1574241738548" duration="6886000" />
+      <workItem from="1574241738548" duration="6936000" />
+      <workItem from="1574772771604" duration="2747000" />
+      <workItem from="1575063447314" duration="720000" />
+      <workItem from="1575277664760" duration="6876000" />
+      <workItem from="1575644670163" duration="812000" />
     </task>
     <servers />
   </component>
