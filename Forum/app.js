@@ -3,6 +3,8 @@ function createArticle() {
     var typeOfArticle = document.getElementById('typeOfArticle').innerHTML;
     localStorage.setItem('articleType', typeOfArticle);
     //document.getElementById('newArticleType').innerHTML = localStorage.getItem('articleType');
+    document.getElementById("newArticleType").innerHTML = "test";
+    document.location.href = "forum.html";
 
 
 

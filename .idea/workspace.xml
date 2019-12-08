@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dba6123c-0cb6-4181-af12-1593a30896c3" name="Default Changelist" comment="">
+    <list default="true" id="4a0095e2-78ef-4ed9-a88a-e6edeed6c17f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Forum/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Forum/app.js" afterDir="false" />
     </list>
@@ -14,29 +14,36 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
-        <option value="C:\Users\ander\WebstormProjects\10\9\2019\.idea" />
+        <option value="C:\Users\Christmann\WebstormProjects\Database\.idea" />
       </set>
     </option>
   </component>
-  <component name="ProjectId" id="1TpTzL6r9sgxJsQbGrn9GwQmXBu" />
+  <component name="ProjectId" id="1SI8yptlaEUes4DethGkue1Xe61" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Christmann\WebstormProjects\Database\simpleLoginWebsite" />
+      <recent name="C:\Users\Christmann\WebstormProjects\Database\Classes" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -55,14 +62,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dba6123c-0cb6-4181-af12-1593a30896c3" name="Default Changelist" comment="" />
-      <created>1574156299624</created>
+      <changelist id="4a0095e2-78ef-4ed9-a88a-e6edeed6c17f" name="Default Changelist" comment="" />
+      <created>1571240006934</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1574156299624</updated>
-      <workItem from="1574156304948" duration="367000" />
-      <workItem from="1574237598758" duration="4111000" />
-      <workItem from="1574241738548" duration="6886000" />
+      <updated>1571240006934</updated>
+      <workItem from="1571240010669" duration="1850000" />
+      <workItem from="1571247131532" duration="271000" />
+      <workItem from="1571247430140" duration="638000" />
+      <workItem from="1571248096642" duration="2525000" />
+      <workItem from="1571251602904" duration="672000" />
+      <workItem from="1571253886418" duration="2000" />
+      <workItem from="1573080375410" duration="64000" />
+      <workItem from="1573080539690" duration="4624000" />
+      <workItem from="1573138216230" duration="3951000" />
+      <workItem from="1573223859987" duration="1727000" />
+      <workItem from="1573393249385" duration="4498000" />
+      <workItem from="1573729410528" duration="429000" />
+      <workItem from="1575210686026" duration="2590000" />
+      <workItem from="1575407838524" duration="2441000" />
     </task>
     <servers />
   </component>
@@ -81,5 +99,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Database project" />
+    </ignored-roots>
   </component>
 </project>
