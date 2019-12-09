@@ -1,0 +1,680 @@
+commit 9036285df5a1378e640d96f05c2d219dcc1cb5b6
+Merge: 6dd3593 7323ab6
+Author: Anders Christmann <Anders@christmann.dk>
+Date:   Sun Dec 8 16:06:43 2019 +0100
+
+    commit to pull
+
+commit 6dd3593108e4076d3d4571a78bbb753390247f08
+Author: Anders Christmann <Anders@christmann.dk>
+Date:   Sun Dec 8 16:05:41 2019 +0100
+
+    commit to pull
+
+commit 7323ab68f7244161d57eca8567f26ee2322f56d8
+Author: RohlAxelSkaara <55132250+RohlAxelSkaara@users.noreply.github.com>
+Date:   Sun Dec 8 13:14:37 2019 +0100
+
+    Add files via upload
+    
+    Update bookingsystem
+
+commit 20ac31726c498e303ec78b56c4b56419189a764c
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Fri Dec 6 16:19:59 2019 +0100
+
+    Same
+
+commit fb3d39165a13a9087df3faa11ebf83b1ee040dab
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Fri Dec 6 16:19:35 2019 +0100
+
+    More work on putting the project together
+
+commit 35c2f091b42dd3577fa461d5d1f06ec95125660d
+Merge: e284045 3caab2e
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Fri Dec 6 16:06:19 2019 +0100
+
+    Merge branch 'master' of https://github.com/RohlAxelSkaara/TRAJ-SOLUTIONS
+
+commit e284045c56cfd2046ff7633b1b74d05b04c41c61
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Fri Dec 6 16:06:10 2019 +0100
+
+    Putting it all together
+
+commit 3caab2e8ded243a6a46d3db51e4782c8057985bd
+Author: RohlAxelSkaara <55132250+RohlAxelSkaara@users.noreply.github.com>
+Date:   Thu Nov 28 18:22:52 2019 +0100
+
+    Add files via upload
+    
+    Have had trouble with git and have not been able to push my bookingsystem´s progress. I have now done it manually through github. The code is working, but I am working with improving the code, while adding new elements.
+
+commit a83271a89e5bb6163f05bb0c036561b7219473e6
+Merge: 474e419 e3b5110
+Author: JonasAND <joan19ac@student.cbs.dk>
+Date:   Wed Nov 20 13:11:25 2019 +0100
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 474e41977e8ac0bd2cd3fae02f322b90baf13dbf
+Author: JonasAND <joan19ac@student.cbs.dk>
+Date:   Wed Nov 20 13:10:53 2019 +0100
+
+    New pictures. Logo re-designed
+
+commit e3b5110c21eca67efc4645b1c8e7bc76d13cb558
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Wed Nov 20 13:05:09 2019 +0100
+
+    More work on article/forum system. Still not working.
+
+commit 72a662d44102387a878a0ae64236ce04d1172b78
+Merge: 2d75fb2 e5cbe99
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Wed Nov 20 12:38:39 2019 +0100
+
+    Merge branch 'master' of https://github.com/RohlAxelSkaara/TRAJ-SOLUTIONS
+
+commit 2d75fb2f4ca69ebd642d15ad1b4fda110bd91f05
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Wed Nov 20 12:38:12 2019 +0100
+
+    Work on a article/forum system
+
+commit e5cbe99aa8c42a9d1e4b82799750e1f769b898d3
+Author: JonasAND <joan19ac@student.cbs.dk>
+Date:   Wed Nov 20 12:26:41 2019 +0100
+
+    Pictures updated to cammelcase
+
+commit ac239a465cc533ca11a35df9c635f5a73eb5a7ce
+Author: JonasAND <joan19ac@student.cbs.dk>
+Date:   Wed Nov 20 12:20:36 2019 +0100
+
+    Nav bar updated
+
+commit bc8dd5bb278b4d5d5b2203fbf39f8ec44f71f9df
+Merge: 8b74d40 e721a27
+Author: JonasAND <joan19ac@student.cbs.dk>
+Date:   Wed Nov 20 12:08:43 2019 +0100
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 8b74d40c929c66d9f0feea0111381140e455e3c7
+Author: JonasAND <joan19ac@student.cbs.dk>
+Date:   Wed Nov 20 12:07:33 2019 +0100
+
+    Nav bar updated
+
+commit 6696f0c8703199fc76a42e8ed6ca23a0d872b54c
+Author: JonasAND <joan19ac@student.cbs.dk>
+Date:   Wed Nov 20 12:07:18 2019 +0100
+
+    Nav bar updated
+
+commit e721a271c7530ed2460cc613722f3a40b69084f7
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Wed Nov 20 10:30:32 2019 +0100
+
+    Deleted obsolete folder
+
+commit cc02e09a6869a9e6d56ca59ade09510a6aba521c
+Merge: 8bd80a0 127ac0e
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Wed Nov 20 10:25:52 2019 +0100
+
+    Merge branch 'master' of https://github.com/RohlAxelSkaara/TRAJ-SOLUTIONS
+
+commit 8bd80a026c1d045bcf5a859448c0b3ab33170acd
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Wed Nov 20 10:20:46 2019 +0100
+
+    More work on login system. Now working with class and redirecting to a new page
+
+commit 127ac0e59de09caf35375234cf178a422760dbbf
+Merge: 61709a0 8830288
+Author: JonasAND <joan19ac@student.cbs.dk>
+Date:   Wed Nov 20 09:58:23 2019 +0100
+
+    Merge branch 'master' of https://github.com/RohlAxelSkaara/TRAJ-SOLUTIONS
+
+commit 61709a0d760e38384ebd31fa9e80e5d4bcd4ef6b
+Author: JonasAND <joan19ac@student.cbs.dk>
+Date:   Wed Nov 20 09:53:10 2019 +0100
+
+    Updated with text and positions
+
+commit 3f68ed41176ea22232185d63d2592612aa2476bd
+Author: JonasAND <joan19ac@student.cbs.dk>
+Date:   Wed Nov 20 09:51:59 2019 +0100
+
+    Text position updated
+
+commit cc060ec19db7b76c9e8aa8c0a9d6830363e4d2ff
+Author: JonasAND <joan19ac@student.cbs.dk>
+Date:   Wed Nov 20 09:48:41 2019 +0100
+
+    Updated with text and positions
+
+commit 883028806eba4494877a852f08e6ca45c9cc9663
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Tue Nov 19 10:31:02 2019 +0100
+
+    Markdown file on our Written Hand-in
+
+commit 8e958832a119296faeef418e4212f62939ab4d68
+Merge: 3079fe6 73458cc
+Author: JonasAND <joan19ac@student.cbs.dk>
+Date:   Mon Nov 18 14:58:02 2019 +0100
+
+    ?
+
+commit 3079fe6c6a478112b1adc18a7c3f70b7b937d7e1
+Author: JonasAND <joan19ac@student.cbs.dk>
+Date:   Mon Nov 18 14:56:28 2019 +0100
+
+    Bis html layout
+
+commit 73458ccb0ef1a4cbc83a0407b3f790109580d859
+Merge: 6040b7c 33ed91e
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Mon Nov 18 14:36:28 2019 +0100
+
+    Merge branch 'master' of https://github.com/RohlAxelSkaara/TRAJ-SOLUTIONS
+
+commit 6040b7c2fd0f0c105e681b26532e0da045f82685
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Mon Nov 18 14:36:05 2019 +0100
+
+    Cleaning up
+
+commit 33ed91e3329e32d06d22a365651cd340c399a8d3
+Merge: d12dc7c eb3cd06
+Author: JonasAND <joan19ac@student.cbs.dk>
+Date:   Mon Nov 18 14:28:56 2019 +0100
+
+    removing .idea
+
+commit d12dc7c0b35356e8fa8e1e2a0d7dad96e039ee9a
+Author: JonasAND <joan19ac@student.cbs.dk>
+Date:   Mon Nov 18 14:27:19 2019 +0100
+
+    RUAdvice hjemmeside
+
+commit eb3cd06365febe2d5e5a4cb348909c557d13c151
+Merge: 860bfa8 7c1b91a
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Mon Nov 18 14:26:21 2019 +0100
+
+    Remove .idea
+
+commit 860bfa86b548b91b6d80339cc2dda241116efd7d
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Mon Nov 18 14:22:27 2019 +0100
+
+    remove .idea
+
+commit 451d3c8f69758f0c5963b28947c0e5c2a13a8c5a
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Mon Nov 18 14:21:57 2019 +0100
+
+    Test
+
+commit ef6c4e70b5690fa4ef2f872ec75b93d2f984ab06
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Mon Nov 18 14:10:21 2019 +0100
+
+    Work on login and organising files
+
+commit 7c1b91a502ca634277fd131efc2e73ec62028c64
+Author: JonasAND <joan19ac@student.cbs.dk>
+Date:   Mon Nov 18 14:08:38 2019 +0100
+
+    Billede
+
+commit b7ad7dd8dd74fc115490fba4e05f96c8dcc8503c
+Author: JonasAND <joan19ac@student.cbs.dk>
+Date:   Mon Nov 18 14:07:29 2019 +0100
+
+    Jonas
+
+commit 5532965be0d1e8cfffbe3cc5f6d0b38cdff257fd
+Author: JonasAND <joan19ac@student.cbs.dk>
+Date:   Mon Nov 18 11:39:19 2019 +0100
+
+    added comment
+
+commit b50ba785252283e2fbfc0603009cd5f7221957ae
+Author: JonasAND <joan19ac@student.cbs.dk>
+Date:   Mon Nov 18 11:29:12 2019 +0100
+
+    login
+
+commit 72f46a1112104f454baf1c37713969ba4b675b2c
+Merge: 1d11611 2fbb0e5
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Mon Nov 18 11:23:35 2019 +0100
+
+    ...
+
+commit 1d11611bcc66572263295f95043c3ff39df2f89c
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Mon Nov 18 11:18:08 2019 +0100
+
+    idk
+
+commit 41a9f3ec25a9681a259bf5b78ec045f00cc278e9
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Mon Nov 18 11:15:34 2019 +0100
+
+    Work on user class
+
+commit 2fbb0e5e4b0f8ee55727f5268f9639c26b3f10ea
+Author: JonasAND <joan19ac@student.cbs.dk>
+Date:   Mon Nov 18 10:43:33 2019 +0100
+
+    Jonas
+
+commit 3dc2ab3e7e584cd50deaabdb541d287dcb699175
+Author: JonasAND <joan19ac@student.cbs.dk>
+Date:   Mon Nov 18 10:43:01 2019 +0100
+
+    Jonas
+
+commit 0b3d5989b8ad6fa27f5a096324dd38663a43b147
+Author: Anders Christmann <Anders@christmann.dk>
+Date:   Sun Nov 10 18:13:44 2019 +0100
+
+    Working on a dropdown menu
+
+commit 0a0b9681d8ddcb7c08c1c8e83d39a3e2c37ea2cb
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Fri Nov 8 11:53:45 2019 +0100
+
+    Adding a time of booking to the booking system
+
+commit b98f0f0fd15ac36abe3a494623fee2c86282eb0a
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Fri Nov 8 10:54:47 2019 +0100
+
+    Added time stamp to booking
+
+commit 1dbd02e16e2e1109627275b890961ed899b3281b
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Fri Nov 8 10:42:05 2019 +0100
+
+    Finishing touches to the booking system
+
+commit c29a6a945a3a100b1498d229d6f7fd64035c90a5
+Merge: 50a1135 474d4fe
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Fri Nov 8 10:14:21 2019 +0100
+
+    Merge branch 'master' of https://github.com/RohlAxelSkaara/TRAJ-SOLUTIONS
+
+commit 50a1135382344aa2a0c24099fc5ce23ad6f01b01
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Fri Nov 8 10:13:59 2019 +0100
+
+    Working booking system
+
+commit 474d4fec8aeebcd1f125ad23376de5a8dc2951b0
+Author: JonasAND <joan19ac@student.cbs.dk>
+Date:   Fri Nov 8 10:10:58 2019 +0100
+
+    Jonas
+
+commit 51374f08590a6f1a8198284a052f905a09ac0642
+Author: JonasAND <joan19ac@student.cbs.dk>
+Date:   Fri Nov 8 10:10:09 2019 +0100
+
+    Jonas
+
+commit ad5ba4a360ac363bd9557a10b9db30aacf98389a
+Author: JonasAND <joan19ac@student.cbs.dk>
+Date:   Fri Nov 8 10:04:40 2019 +0100
+
+    Jonas
+
+commit 054e70f89cd69a7d243a0d1376df5cb0f9eddaee
+Author: Anders Christmann <Anders@christmann.dk>
+Date:   Thu Nov 7 19:30:57 2019 +0100
+
+    More work on booking system
+
+commit a501cba1d5f7d68c39f698e0161011e1f9e7e98b
+Author: Anders Christmann <Anders@christmann.dk>
+Date:   Thu Nov 7 00:48:38 2019 +0100
+
+    Booking system
+
+commit 0adeacb043a62a21f672d3f13e7e6f09365f999c
+Merge: 96b3ed4 7cfaec6
+Author: Rohl Axel Skaara <rosk19ab@student.cbs.dk>
+Date:   Fri Oct 18 13:17:06 2019 +0200
+
+    html
+
+commit 96b3ed4814f2f720fa623d2cab844b040590c6f0
+Merge: 88b4cfd 57052fa
+Author: Rohl Axel Skaara <rosk19ab@student.cbs.dk>
+Date:   Fri Oct 18 09:37:50 2019 +0200
+
+    hej
+
+commit 7cfaec6b82b9ab13cd06743fc24c4af39cb0bb89
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Fri Oct 18 09:36:30 2019 +0200
+
+    changes to login system usign arrays
+
+commit 88b4cfd0cddc140bf3e4a5eb2ec349ea9e642384
+Author: Rohl Axel Skaara <rosk19ab@student.cbs.dk>
+Date:   Fri Oct 18 09:35:13 2019 +0200
+
+    hej
+
+commit eda022bd36f80f783679fe90f86f5933c6f324ab
+Author: Rohl Axel Skaara <rosk19ab@student.cbs.dk>
+Date:   Fri Oct 18 09:34:29 2019 +0200
+
+    hej
+
+commit 586c166b9c6348021587e06a18525172ec95a3ab
+Merge: e4dedd0 57052fa
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Fri Oct 18 08:59:38 2019 +0200
+
+    Merge branch 'master' of https://github.com/RohlAxelSkaara/TRAJ-SOLUTIONS
+
+commit e4dedd081e3b1aada9e7a5c6f20654bdd803a1fb
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Fri Oct 18 08:59:32 2019 +0200
+
+    No changes really
+
+commit 57052fa3171324c0058b23840014c2bb62f3c9f6
+Author: Anders Christmann <Anders@christmann.dk>
+Date:   Wed Oct 16 19:55:24 2019 +0200
+
+    Removing .idea folder again
+
+commit 7c2f445103d6f168c66d6eb18010e32f643b9dcf
+Author: Anders Christmann <Anders@christmann.dk>
+Date:   Wed Oct 16 19:54:23 2019 +0200
+
+    Organising files
+
+commit 475aa304e06ca6e5ba9400692d22833beea58f1e
+Author: Anders Christmann <Anders@christmann.dk>
+Date:   Wed Oct 16 19:49:55 2019 +0200
+
+    Trying to remove .idea folder
+
+commit db31817f4ce57939af9e76facdf2c9f9bba1f2e5
+Author: Anders Christmann <Anders@christmann.dk>
+Date:   Wed Oct 16 19:44:59 2019 +0200
+
+    Database project from home
+
+commit 4bbb564aa1c3eea72612b23961b7b028a4bb6002
+Author: Anders Christmann <Anders@christmann.dk>
+Date:   Wed Oct 16 19:42:28 2019 +0200
+
+    Commit attempt
+
+commit 8291027231eb49a9e100298ea1deb1b90fb18e92
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Tue Oct 15 09:48:53 2019 +0200
+
+    login form files
+
+commit a53837f7ccb99388040d020d1fb9a678a43b13d7
+Merge: 803bc1a 63a2ec7
+Author: Rohl Axel Skaara <rosk19ab@student.cbs.dk>
+Date:   Wed Oct 9 15:13:32 2019 +0200
+
+    commiting changes
+
+commit 803bc1a40c71e35ec6da81caefd24c185d8e415b
+Author: Rohl Axel Skaara <rosk19ab@student.cbs.dk>
+Date:   Wed Oct 9 15:10:13 2019 +0200
+
+    2 new files
+
+commit 63a2ec7cf6845beca2688989ae5f3246c64cc927
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Wed Oct 9 15:07:20 2019 +0200
+
+    added new files
+
+commit cbf2d05e7fbcd0ec5a48c1f019237a0f2f2bf2d5
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Wed Oct 9 14:43:09 2019 +0200
+
+    Group Project
+
+commit 9b7c72a125319f3b3d1302edf40bc77b0a76a83b
+Author: RohlAxelSkaara <55132250+RohlAxelSkaara@users.noreply.github.com>
+Date:   Wed Oct 9 14:30:17 2019 +0200
+
+    Rename TEST to GITTEST
+
+commit 8c5d040183bcc46ca59979ce799ccbae6eb4c500
+Author: RohlAxelSkaara <55132250+RohlAxelSkaara@users.noreply.github.com>
+Date:   Wed Oct 9 14:30:02 2019 +0200
+
+    Create TEST
+
+commit 0d3cc384bb29852685ed2fcbf53b4dc635fe4c57
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Wed Oct 9 13:01:28 2019 +0200
+
+    A folder with some of the classes from the class diagram.
+
+commit 2947bbece93e4708f4ebe9e572d39343b7c154e8
+Author: RohlAxelSkaara <55132250+RohlAxelSkaara@users.noreply.github.com>
+Date:   Fri Oct 4 14:36:06 2019 +0200
+
+    Update README.md
+
+commit b4fd4cfea316417797e5326b99692a19066f0bc7
+Author: RohlAxelSkaara <55132250+RohlAxelSkaara@users.noreply.github.com>
+Date:   Thu Oct 3 11:22:52 2019 +0200
+
+    Update README.md
+
+commit b497b2e9114a286126fd271d34ac853ea37f1882
+Author: RohlAxelSkaara <55132250+RohlAxelSkaara@users.noreply.github.com>
+Date:   Thu Oct 3 11:19:47 2019 +0200
+
+    Update README.md
+
+commit 0d8ded7585b282eb5ff43bcad256e7265562662c
+Author: RohlAxelSkaara <55132250+RohlAxelSkaara@users.noreply.github.com>
+Date:   Thu Oct 3 11:17:07 2019 +0200
+
+    Update README.md
+
+commit d154d4d32bf0a08df49c341afcfb3f2837745d7f
+Author: JonasAND <54837142+JonasAND@users.noreply.github.com>
+Date:   Thu Oct 3 10:55:21 2019 +0200
+
+    Update README.md
+
+commit 72d8bacee8ed2184231950d0cabfd7d7d4e45c0e
+Author: RohlAxelSkaara <55132250+RohlAxelSkaara@users.noreply.github.com>
+Date:   Thu Oct 3 10:23:39 2019 +0200
+
+    Update README.md
+
+commit 96efd56ecafeb8dfd3830ef2eb4a722057906137
+Author: AndersChristmannCBS <55132331+AndersChristmannCBS@users.noreply.github.com>
+Date:   Wed Sep 25 11:34:15 2019 +0200
+
+    Update README.md
+
+commit 2b981f4968fa614c155c02e91654d53421a80f4c
+Author: AndersChristmannCBS <55132331+AndersChristmannCBS@users.noreply.github.com>
+Date:   Wed Sep 25 11:28:03 2019 +0200
+
+    Update README.md
+
+commit 0063eb64d517a136616d9218170578dfba4a02c6
+Author: AndersChristmannCBS <55132331+AndersChristmannCBS@users.noreply.github.com>
+Date:   Wed Sep 25 11:25:50 2019 +0200
+
+    Update README.md
+
+commit 7823e7a442ead254442722fdca5739ed2df88a0c
+Author: AndersChristmannCBS <55132331+AndersChristmannCBS@users.noreply.github.com>
+Date:   Wed Sep 25 11:25:28 2019 +0200
+
+    Update README.md
+
+commit 4241c0ae0de39cc077c6408238e5e1a34cae4e54
+Author: AndersChristmannCBS <55132331+AndersChristmannCBS@users.noreply.github.com>
+Date:   Fri Sep 20 14:24:58 2019 +0200
+
+    Update README.md
+
+commit 70121896d17afba51627c59bf8340d12c09c6fe9
+Author: AndersChristmannCBS <55132331+AndersChristmannCBS@users.noreply.github.com>
+Date:   Fri Sep 20 14:20:02 2019 +0200
+
+    classDiagram
+
+commit 98b03699bb85a7f59c16372083dce3122a98abed
+Author: RohlAxelSkaara <55132250+RohlAxelSkaara@users.noreply.github.com>
+Date:   Fri Sep 20 13:09:35 2019 +0200
+
+    Update README.md
+
+commit 63a16bfd18a8bfbf774c36b20f7e7f2abd289f15
+Author: RohlAxelSkaara <55132250+RohlAxelSkaara@users.noreply.github.com>
+Date:   Fri Sep 20 13:06:11 2019 +0200
+
+    Update README.md
+
+commit b4f22152483c4ddcb6f28d8073ad9333be491cd9
+Author: RohlAxelSkaara <55132250+RohlAxelSkaara@users.noreply.github.com>
+Date:   Fri Sep 20 12:59:34 2019 +0200
+
+    Update README.md
+
+commit 412f6711a2fd5603a1bdc7e4e088abd2ef38e7f8
+Author: RohlAxelSkaara <55132250+RohlAxelSkaara@users.noreply.github.com>
+Date:   Fri Sep 20 12:36:52 2019 +0200
+
+    Update README.md
+
+commit 5e11d804ce59b349e051214cd3d4e972caa9276a
+Author: RohlAxelSkaara <55132250+RohlAxelSkaara@users.noreply.github.com>
+Date:   Fri Sep 20 12:35:43 2019 +0200
+
+    Update README.md
+
+commit f84fa01b8f2cea3586f931a868a694dc618ef30d
+Author: AndersChristmannCBS <55132331+AndersChristmannCBS@users.noreply.github.com>
+Date:   Fri Sep 20 12:02:14 2019 +0200
+
+    Update README.md
+
+commit cc1aa93de964c02319a91b6bd86c5b958ee19db6
+Author: RohlAxelSkaara <55132250+RohlAxelSkaara@users.noreply.github.com>
+Date:   Fri Sep 20 11:51:41 2019 +0200
+
+    Update README.md
+
+commit 992bccb30d7b58dab3498db7894eef65094342de
+Author: RohlAxelSkaara <55132250+RohlAxelSkaara@users.noreply.github.com>
+Date:   Fri Sep 20 11:51:18 2019 +0200
+
+    Update README.md
+
+commit 80e0d3f6cb8149b8d99f3c95e18a753ac2d2e9cc
+Author: AndersChristmannCBS <55132331+AndersChristmannCBS@users.noreply.github.com>
+Date:   Fri Sep 20 11:45:46 2019 +0200
+
+    Update README.md
+
+commit df4751c92517fd17846e1a1d28da3e06f7916f54
+Author: AndersChristmannCBS <55132331+AndersChristmannCBS@users.noreply.github.com>
+Date:   Fri Sep 20 11:45:21 2019 +0200
+
+    Update README.md
+
+commit ce5b4994f361a0fa0ad21b9bb4cca15e15c9b88f
+Author: AndersChristmannCBS <55132331+AndersChristmannCBS@users.noreply.github.com>
+Date:   Fri Sep 20 11:43:18 2019 +0200
+
+    Update README.md
+
+commit ca20336b5aa64ce583aec7e97412b6cffdf6a116
+Author: RohlAxelSkaara <55132250+RohlAxelSkaara@users.noreply.github.com>
+Date:   Fri Sep 20 11:27:58 2019 +0200
+
+    Initial commit
+
+commit a362df73796af0eeb00ec32ff19797298a1202ff
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Tue Sep 17 10:28:04 2019 +0200
+
+    Commintg PROG-TRAJ files to master
+
+commit ad40da93e6acc674771b155b14e47d619012333a
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Tue Sep 17 10:20:20 2019 +0200
+
+    Commit of cloned repository.
+
+commit e0e7e4711108875e460b2fdd1fceeaedb17a330a
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Tue Sep 17 09:56:01 2019 +0200
+
+    A commit test using a new file.
+
+commit e2e7d5fe3ac389b1fc9fd1cb0ff265dada7e7d96
+Author: anderschristmannCBS <anders@christmann.dk>
+Date:   Tue Sep 17 09:45:14 2019 +0200
+
+    Will this work?
+
+commit 76f2f005df0d445969acc10012456d48efa3a76c
+Author: AndersChristmannCBS <55132331+AndersChristmannCBS@users.noreply.github.com>
+Date:   Fri Sep 13 12:57:02 2019 +0200
+
+    test commit
+
+commit af517bff31dc090469772c93ae607f5e58282f38
+Author: AndersChristmannCBS <55132331+AndersChristmannCBS@users.noreply.github.com>
+Date:   Fri Sep 13 11:57:56 2019 +0200
+
+    All the tasks I have done from the book.
+
+commit 0b2d4068c2a682e37111632fceca018ae24dd6a0
+Author: AndersChristmannCBS <55132331+AndersChristmannCBS@users.noreply.github.com>
+Date:   Fri Sep 13 11:36:52 2019 +0200
+
+    All my fucking files
+
+commit 2e13bf1e0cc810d332b310068a4447482a0b0d63
+Author: AndersChristmannCBS <55132331+AndersChristmannCBS@users.noreply.github.com>
+Date:   Fri Sep 13 11:32:30 2019 +0200
+
+    All my fucking files
+
+commit dcff4bd64a5e6b5f04f56c9fa234757a554712f4
+Author: AndersChristmannCBS <55132331+AndersChristmannCBS@users.noreply.github.com>
+Date:   Fri Sep 13 11:26:12 2019 +0200
+
+    first commit
+
+commit 35ea465e7b72249fc1a5ba9c854b8fc382ef327f
+Author: AndersChristmannCBS <55132331+AndersChristmannCBS@users.noreply.github.com>
+Date:   Fri Sep 13 11:23:50 2019 +0200
+
+    first commit
