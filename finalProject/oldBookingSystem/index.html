@@ -8,13 +8,23 @@
     <title>Booking System</title>
 </head>
 <body>
+
+<div class="nav">
+    <a href="../landingPage.html">Home</a>
+    <a href="../Login/index.html">Login Page</a>
+    <a href="../Booking/index.html">Booking Page</a>
+    <a href="../oldBookingSystem/index.html">Old Booking System</a>
+    <a href="../Forum/index.html">Forum</a>
+    <a href="../Searchbar/index.html">Searchbar</a>
+</div>
+
 <div>
     <h1>Book a time with us!</h1>
     <!-- Form with 2 input fields and one button. This allows the user to book a time with the company. -->
     <form>
         <input id="clientName" type="text" name="clientName" placeholder="Your name...">
         <input id="clientEmail" type="text" name="clientEmail" placeholder="Your email...">
-        <!-- Button that runs the createBooking() function from the bookingSystem.js file when clicked. -->
+        <!-- Button that runs the createBooking() function from the oldBookingSystem.js file when clicked. -->
         <!--<button id="submitBooking" type="submit" name="submitBooking" onclick="createBooking()">Submit Booking</button>-->
         <input type="button" onclick="createBooking()" value="Book">
     </form>
