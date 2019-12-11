@@ -17,6 +17,7 @@
     color: black;
 }
 
+
 #booking {
 
     text-align: center;
@@ -133,5 +134,9 @@ select:focus::-webkit-input-placeholder {
 }
 
 
+
+#bookingIsValid{
+    display: block;
+}
 
 
